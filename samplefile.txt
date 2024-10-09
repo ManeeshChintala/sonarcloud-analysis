@@ -1,2 +1,3 @@
-String s="";
+var s="";
+var k="";
 console.log("test");
